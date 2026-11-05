@@ -17,7 +17,7 @@ Forward Deployed Engineer · IA. Eu entro no problema do cliente, construo o sis
 | Projeto | O que mostra |
 | --- | --- |
 | [Agente Empório](https://github.com/pgmaximo/emporio-da-musica-agent) | Agente de atendimento no WhatsApp: roteador + agentes especialistas, preços verificados em código, roteador com 28/28 na avaliação, [demo ao vivo](https://emporio-da-musica-agent-beta.vercel.app) |
-| [SuaSaúde](https://github.com/pgmaximo/trabalho_conclusao_curso) | App de saúde (Expo + AWS Amplify) com Bedrock lendo laudos de exames |
+| [SuaSaúde](https://github.com/pgmaximo/suasaude) | App de saúde (Expo + AWS Amplify) com Bedrock lendo laudos de exames |
 | [UrbanAI](https://github.com/pgmaximo/S5_ProjetoIntegrador_UrbanAI) | Busca de imóveis conversacional: app Flutter + agentes de IA + automações no n8n |
 
 Python · TypeScript · React · React Native · Flutter · OpenAI Agents SDK · AWS (Bedrock, Amplify, DynamoDB) · Postgres
